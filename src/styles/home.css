@@ -1,0 +1,29 @@
+.banner{
+    margin-top: 5vh;
+}
+/*
+.Col
+
+.Row
+.align-items-center
+.span{
+
+}*/
+.tagline{
+    margin-top: 2vh;
+}
+
+h1{
+    font-weight: 500;
+}
+
+p{
+    margin-top: 2vh;
+}
+.button{
+    border-radius: 11px;
+    color: bisque;
+    text-decoration: azure;
+}
+/*.txt-rotate{}*/
+
